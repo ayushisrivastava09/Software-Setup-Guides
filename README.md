@@ -5,5 +5,4 @@ Current guides:
 
 [Git Bash basics - PR initialization](https://github.com/Anirban166/Software-Setup-Guide/blob/master/Git_Bash.pdf)
 
-Upcoming guides :
-Matlab/Simulink/SQL-Server/Node-React-npm
+> Will update later.
